@@ -21,10 +21,10 @@
   <package id="DotNet4.5.2" version="4.5.2.20140902" />
   <package id="dotnetfx" version="4.8.0.20220524" />
   <package id="figma" version="104.1" />
-  <package id="Firefox" version="105.0" />
+  <package id="Firefox" version="105.0.1" />
   <package id="git" version="2.37.3" />
   <package id="git.install" version="2.37.3" />
-  <package id="GoogleChrome" version="105.0.5195.127" />
+  <package id="GoogleChrome" version="106.0.5249.62" />
   <package id="iisexpress" version="10.0.0.20220524" />
   <package id="insomnia-rest-api-client" version="2022.5.0" />
   <package id="javaruntime" version="8.0.231" />
@@ -41,14 +41,14 @@
   <package id="linqpad7.install" version="7.4.9" />
   <package id="microsoft-teams" version="1.5.00.21668" />
   <package id="netfx-4.7.2" version="4.7.2.0" />
-  <package id="nodejs" version="18.9.0" />
-  <package id="nodejs.install" version="18.9.0" />
+  <package id="nodejs" version="18.9.1" />
+  <package id="nodejs.install" version="18.9.1" />
   <package id="nvm.portable" version="1.1.9" />
   <package id="postman" version="9.29.0" />
   <package id="sharex" version="14.1.0" />
-  <package id="slack" version="4.28.182" />
+  <package id="slack" version="4.28.184" />
   <package id="snyk" version="1.797.0" />
-  <package id="spotify" version="1.1.94.870" />
+  <package id="spotify" version="1.1.94.872" />
   <package id="sql-server-management-studio" version="15.0.18424.0" />
   <package id="sublimemerge" version="0.0.2077" />
   <package id="sublimetext3" version="3.2.2" />
